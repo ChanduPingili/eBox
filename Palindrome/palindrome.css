@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+#palindrome{
+    border: 2px solid black;
+    background-color: rgb(255, 243, 243);
+    text-align: center;
+    /* padding: 10px; */
+    /* height: 10%; */
+    height: 330px;
+    width: 30%;
+    margin: 0 auto 0 ;
+}
+#text{
+    width: 50%;
+    height: 15%;
+}
