@@ -1,0 +1,14 @@
+.container{
+  border:2px solid black;
+  width: 45%;
+  background-color: rgb(251, 236, 236);
+  padding: 20px;
+}
+h2{
+  text-align: center;
+}
+.center{
+  width:60%;
+  margin:0 35% 0;
+  text-align: center;
+}
