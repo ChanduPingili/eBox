@@ -5,3 +5,4 @@ It takes a string as input and checks whether the givcen string is palindrome or
 # MaxEvent : 
 Notes the number of different events are occuring and tells the event that oocuring more times.
 # Calculator
+It is a basic calculator
