@@ -1,9 +1,9 @@
 # eBoxOfWebTechnologies
 It contains the programs that I have completed from eBox.
 # Calculator :
-It is a basic calculator
+It is a basic calculator.
 # EventsList :
-It stores and displays all the events
+It stores and displays all the events.
 # MaxEvent : 
 Notes the number of different events are occuring and tells the event that oocuring more times.
 # Palindrome : 
