@@ -1,7 +1,7 @@
 # eBoxOfWebTechnologies
 It contains the programs that I have completed from eBox.
-# HTML Tags :
-Practice problems to tags.
+# HTML Tags, elements, attributes:
+Practiceed problems on htmls tags , ele, attributes.
 # Calculator :
 It is a basic calculator.
 # EventsList :
